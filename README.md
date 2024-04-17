@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi There!👋
+I'm Sammy and I am a software engineer specializing in .NET for financial systems
 
 <!--
 **arkangel-dev/arkangel-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
